@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="number1">NÚMERO 1</string>
+    <string name="number2">NÚMERO 2</string>
+    <string name="operation">OPERACIÓN</string>
+    <string name="send">calcular</string>
+</resources>
